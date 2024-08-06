@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GithubSahilH.
-- 👀 I’m interested in Web And App Development.
-- 🌱 I’m currently learning Angular and React.
-- 💞️ I’m looking to collaborate on Website and App Development.
-- 📫 You can Reach me at mohammadsahilbhat01@gmail.com
+- 👀 I’m interested in Data Analysis and Visualization.
+- 🌱 I’m currently learning data visualization techniques and working with Power BI, SQL, and Jupyter.
+- 💞️ I’m looking to collaborate on Data Analysis projects.
+- 📫 You can reach me at mohammadsahilbhat01@gmail.com
 
 <!---
 GithubSahilH/GithubSahilH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
